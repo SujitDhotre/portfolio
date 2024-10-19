@@ -59,7 +59,7 @@ function Exp() {
       </div>
     </div>
   </div>
-  <div className="container-xxl">
+  <div className="container-xl">
     <h2 className="pb-2 border-bottom">Codenera</h2>
 
     <div className="row row-cols-1 row-cols-md-2 align-items-md-center g-5 py-5">
